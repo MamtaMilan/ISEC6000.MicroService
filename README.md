@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MamtaMilan
+- Welcome to the Saleor Application Suite
 This is a README file
 <!---
 MamtaMilan/MamtaMilan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
